@@ -6,8 +6,6 @@ The purpose of the project is to compare three different methods for retrieving 
 
 <img src="Images/query_example.jpg" width=50% height=50%>
 
-![Alt text](Images/query_example.jpg "Title" {width=50% height=50%})
-
 Main differences between the methods:
 
 1. CNN as feature extractor using cosine similarity
