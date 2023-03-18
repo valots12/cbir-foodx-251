@@ -4,6 +4,8 @@
 
 The purpose of the project is to compare three different methods for retrieving the best 5 similar images given a query one.
 
+<img src="Images/query_example.jpg" width=50% height=50%>
+
 ![Alt text](Images/query_example.jpg "Title" {width=50% height=50%})
 
 Main differences between the methods:
