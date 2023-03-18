@@ -2,11 +2,11 @@
 
 ***Part of Visual Image Processing project | UniMiB***
 
-The purpose of the project is to compare three different methods for retrieval of best 5 similar images given a query one.
+The purpose of the project is to compare three different methods for retrieving the best 5 similar images given a query one.
 
-![Alt text](Images/query_example.jpg "Title")
+![Alt text](Images/query_example.jpg "Title" width=50% height=50%)
 
-Main differences of the methods:
+Main differences between the methods:
 
 1. CNN as feature extractor using cosine similarity
 
