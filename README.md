@@ -6,7 +6,7 @@ The purpose of the project is to compare three different methods for retrieval o
 
 1. CNN as feature extractor
 
-![<img src=Images/akaze_example.jpg">]
+![Alt text](Images/akaze_example.jpg "Title")
 
 
 
