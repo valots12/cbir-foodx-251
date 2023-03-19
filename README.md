@@ -1,6 +1,6 @@
 # Content Based Image Retrieval using FoodX-251 dataset
 
-***Part of Visual Image Processing project | UniMiB***
+***Part of Visual Information Processing and Management project | UniMiB***
 
 The purpose of the project is to compare three different methods for retrieving the best 5 similar images given a query one.
 
