@@ -8,7 +8,7 @@ The purpose of the project is to compare three different methods for retrieving 
 <br/><br/>
 Main differences between the methods:
 
-1. Transfer learning from pre-trained CNN
+**1. Transfer learning from pre-trained CNN**
 
 - Extraction feature from the first dense layer of MobileNet v2 (1x1280)
 - Cosine similarity as similarity measure
@@ -17,7 +17,7 @@ Main differences between the methods:
 
 <img src="Images/cnn_architecture.jpg" width=320 height=120>
 <br/><br/>
-2. BoWA (Bag of Words using AKAZE descriptors)
+**2. BoWA (Bag of Words using AKAZE descriptors)**
 
 - Identification of most relevant keypoint of each image using 0.01 as threshold for AKZE descriptors
 - Application of K-means clustering algorithm to detect centroids (K = 251)
@@ -28,7 +28,7 @@ Main differences between the methods:
 
 Reference: *Muhammad, Usman, et al. "Bag of words KAZE (BoWK) with two‐step classification for high‐resolution remote sensing images." IET Computer Vision 13.4 (2019): 395-403.*
 <br/><br/>
-3. Siamese network trained using triplet loss as feature extractor
+**3. Siamese network trained using triplet loss as feature extractor**
 
 - Definition of embedding model and replication of it using triplet loss
 - Each triplet is composed of an Anchor, a Positive example and a Negative one
