@@ -6,6 +6,7 @@ The purpose of the project is to compare three different methods for retrieving 
 
 <img src="Images/query_example.jpg" width=640>
 
+<br/><br/>
 
 Main differences between the methods:
 
@@ -18,6 +19,7 @@ Main differences between the methods:
 
 <img src="Images/cnn_architecture.jpg" width=320 height=120>
 
+<br/><br/>
 
 2. BoWA (Bag of Words using AKAZE descriptors)
 
@@ -30,6 +32,7 @@ Main differences between the methods:
 
 Reference: *Muhammad, Usman, et al. "Bag of words KAZE (BoWK) with two‐step classification for high‐resolution remote sensing images." IET Computer Vision 13.4 (2019): 395-403.*
 
+<br/><br/>
 
 3. Siamese network trained using triplet loss as feature extractor
 
