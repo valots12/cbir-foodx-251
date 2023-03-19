@@ -2,6 +2,8 @@
 
 ***Part of Visual Information Processing and Management project | UniMiB***
 
+<br></br>
+
 The purpose of the project is to compare three different methods for retrieving the best 5 similar images given a query one.
 
 <img src="Images/query_example.jpg" width=640>
