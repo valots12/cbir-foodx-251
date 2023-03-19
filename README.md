@@ -6,7 +6,7 @@ The purpose of the project is to compare three different methods for retrieving 
 
 <img src="Images/query_example.jpg" width=640>
 
-Main differences between the methods:
+Main differences between the proposed methods:
 
 ### 1. Transfer learning from pre-trained CNN
 
