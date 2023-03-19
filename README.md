@@ -8,7 +8,7 @@ The purpose of the project is to compare three different methods for retrieving 
 
 Main differences between the proposed methods:
 
-### 1. Transfer learning from pre-trained CNN
+### 1. Transfer learning from a pre-trained CNN
 
 - Extraction feature from the first dense layer of MobileNet v2 (1x1280);
 - cosine similarity as similarity measure;
@@ -36,3 +36,16 @@ Reference: *Muhammad, Usman, et al., "Bag of Words KAZE (BoWK) with two‐step c
 - KNN as similarity measure.
 
 <img src="Images/triplet_example.jpg" width=320 height=120>
+
+## Results
+
+The table below contains the performance of the methods described according to the top-5 accuracy metric. 
+
+| Approach        | Top-5 accuracy | 
+| --------------- | -------------- | 
+| CNN             | ***31%***      | 
+| CNN with KDTree | 24%            |
+| BoWA            | 7%             |
+| Siamese network | 15%            |
+
+As shown in the table, the method that uses transfer learning from a pre-trained CNN obtains the best result. It is important to underline that the dataset contains some images that are not correctly labeled and may have misled the analysis.
