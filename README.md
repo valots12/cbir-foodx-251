@@ -26,7 +26,7 @@ Main differences between the methods:
 
 <img src="Images/akaze_example.jpg" width=320 height=120>
 
-Reference: *Muhammad, Usman, et al. "Bag of words KAZE (BoWK) with two‐step classification for high‐resolution remote sensing images." IET Computer Vision 13.4 (2019): 395-403.*
+Reference: Muhammad, Usman, et al. "Bag of words KAZE (BoWK) with two‐step classification for high‐resolution remote sensing images." IET Computer Vision 13.4 (2019): 395-403.
 <br/><br/>
 **3. Siamese network trained using triplet loss as feature extractor**
 
