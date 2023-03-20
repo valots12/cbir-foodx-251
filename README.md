@@ -48,4 +48,6 @@ The table below contains the performance of the methods described according to t
 | BoWA            | 7%             |
 | Siamese network | 15%            |
 
-As shown in the table, the method that uses transfer learning from a pre-trained CNN obtains the best result. It is important to underline that the dataset contains some images that are not correctly labeled and may have misled the analysis.
+As shown in the table, the method that uses transfer learning from a pre-trained CNN obtains the best result. 
+
+*Note:* It is important to underline that during the analysis, some images that are not correctly labeled have emerged; an initial data cleaning step on the original dataset is required to not misleal further analysis.
